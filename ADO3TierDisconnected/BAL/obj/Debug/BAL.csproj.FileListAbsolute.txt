@@ -1,0 +1,9 @@
+C:\Users\prashu\source\repos\ADO3TierDisconnected\BAL\bin\Debug\BAL.dll
+C:\Users\prashu\source\repos\ADO3TierDisconnected\BAL\bin\Debug\BAL.pdb
+C:\Users\prashu\source\repos\ADO3TierDisconnected\BAL\bin\Debug\ClassLibrary1.dll
+C:\Users\prashu\source\repos\ADO3TierDisconnected\BAL\bin\Debug\ClassLibrary1.pdb
+C:\Users\prashu\source\repos\ADO3TierDisconnected\BAL\obj\Debug\BAL.csprojAssemblyReference.cache
+C:\Users\prashu\source\repos\ADO3TierDisconnected\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\prashu\source\repos\ADO3TierDisconnected\BAL\obj\Debug\BAL.csproj.CopyComplete
+C:\Users\prashu\source\repos\ADO3TierDisconnected\BAL\obj\Debug\BAL.dll
+C:\Users\prashu\source\repos\ADO3TierDisconnected\BAL\obj\Debug\BAL.pdb
